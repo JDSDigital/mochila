@@ -4,7 +4,7 @@ Mochila is a project from the Caracas' FreeCodeCamp Facebook Group, intended pri
 
 ## Content
 
-We are focusing on 4 main categories:
+Mochila is a Website with resources for Web Developers. We are focusing on 4 main categories:
 
 * Front-end.
 * Back-End.
